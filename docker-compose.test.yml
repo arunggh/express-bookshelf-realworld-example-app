@@ -4,7 +4,7 @@ services:
   node:
     environment:
       - CI
-      - DB_NAME=realworld_test
+      - DB_NAME=realworld_test1
       - GITHUB_ACTIONS
       - GITHUB_HEAD_REF
       - GITHUB_REF
